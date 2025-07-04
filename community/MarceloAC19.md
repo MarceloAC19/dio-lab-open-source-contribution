@@ -38,8 +38,8 @@ Aprender o básico sobre contribuição no GitHub.
 
 Repository developed for educational purposes, with the provision of support materials and practical exercises for the lab **Contributing to an Open Source Project on GitHub** by [Digital Innovation One](https://www.dio.me/).
 
-[![Lab Link](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/project-challenge-contributing-to-an-open-source-project-on-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
-[ ... Lab](https://img.shields.io/badge/Access%20the%20Lab%20on%20the%20Platform-E94D5F?style=for-the-badge)](https://web.dio.me/lab/project-challenge-contributing-to-an-open-source-project-on-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
+[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objective
 Learn the basics of contributing to GitHub.
